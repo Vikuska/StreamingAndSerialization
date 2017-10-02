@@ -1,0 +1,5 @@
+D:\GitTest\StreamingAndSerialization\Serialization\Binary\TypesLib\bin\Debug\TypesLib.dll
+D:\GitTest\StreamingAndSerialization\Serialization\Binary\TypesLib\bin\Debug\TypesLib.pdb
+D:\GitTest\StreamingAndSerialization\Serialization\Binary\TypesLib\obj\Debug\TypesLib.csprojResolveAssemblyReference.cache
+D:\GitTest\StreamingAndSerialization\Serialization\Binary\TypesLib\obj\Debug\TypesLib.dll
+D:\GitTest\StreamingAndSerialization\Serialization\Binary\TypesLib\obj\Debug\TypesLib.pdb

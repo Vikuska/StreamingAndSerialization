@@ -1,0 +1,8 @@
+D:\GitTest\StreamingAndSerialization\Serialization\App\bin\Debug\App.exe.config
+D:\GitTest\StreamingAndSerialization\Serialization\App\bin\Debug\App.exe
+D:\GitTest\StreamingAndSerialization\Serialization\App\bin\Debug\App.pdb
+D:\GitTest\StreamingAndSerialization\Serialization\App\bin\Debug\TypesLib.dll
+D:\GitTest\StreamingAndSerialization\Serialization\App\bin\Debug\TypesLib.pdb
+D:\GitTest\StreamingAndSerialization\Serialization\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\GitTest\StreamingAndSerialization\Serialization\App\obj\Debug\App.exe
+D:\GitTest\StreamingAndSerialization\Serialization\App\obj\Debug\App.pdb
